@@ -2,19 +2,12 @@
 
 ### function in markdown
 
+testing latex function support in gihub...:w
+
 
 $y = mx + b$ 
 
-$y = x^2 \hox{ when $x > 2$}$
-
-
 $\frac{\frac{1}{x}+\frac{1}{y}}{y-z}$
 
+<img src="https://latex.codecogs.com/gif.latex?y&space;=&space;mx&space;&plus;&space;b" title="y = mx + b" />
 
-\begin{equation}
-\begin{aligned}
-& & y & = mx + b \\
-& & & = (m \times x) + b \\
-& \implies & 0 & = \{(m \times x) + b\} - y
-\end{aligned}
-\end{equation}
